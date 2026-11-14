@@ -1,0 +1,3 @@
+# Optional: only needed to rebuild Turkish pseudo-gloss labels.
+turkish-morphology
+rapidfuzz

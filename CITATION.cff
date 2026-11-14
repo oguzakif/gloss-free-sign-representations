@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code or build on this work, please cite our paper."
+type: software
+title: "Gloss-Free Representation Learning for Cross-Dataset Sign Spotting"
+license: Apache-2.0
+repository-code: "https://github.com/oguzakif/gloss-free-sign-spotting"
+authors:
+  - family-names: "Tüfekcioğlu"
+    given-names: "Oğuz Akif"
+    orcid: "https://orcid.org/0009-0001-1578-8190"
+  - family-names: "Ekin"
+    given-names: "Ezgi"
+  - family-names: "Çevik"
+    given-names: "Mustafa Kaan"
+  - family-names: "Keles"
+    given-names: "Hacer Yalim"
+preferred-citation:
+  type: article
+  title: "Gloss-Free Representation Learning for Cross-Dataset Sign Spotting"
+  authors:
+    - family-names: "Tüfekcioğlu"
+      given-names: "Oğuz Akif"
+    - family-names: "Ekin"
+      given-names: "Ezgi"
+    - family-names: "Çevik"
+      given-names: "Mustafa Kaan"
+    - family-names: "Keles"
+      given-names: "Hacer Yalim"
+  year: 2026
+  journal: "arXiv"
+  url: "https://arxiv.org/abs/2608.11332"

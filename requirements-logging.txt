@@ -1,0 +1,2 @@
+# Optional: enable with SIGN_SPOTTING_WANDB=1 and your WANDB_API_KEY.
+wandb==0.17.9
