@@ -2,6 +2,8 @@
 
 Official implementation of [Gloss-Free Representation Learning for Cross-Dataset Sign Spotting](https://arxiv.org/abs/2608.11332), by Oğuz Akif Tüfekcioğlu, Ezgi Ekin, Mustafa Kaan Çevik, and Hacer Yalim Keles (2026).
 
+Accepted and presented at the **4th LIMIT Workshop (Representation Learning with Very Limited Resources), ECCV 2026**.
+
 We learn a reusable sign encoder from TSL-News video/transcript pairs using sentence-level pseudo-gloss supervision, then evaluate transfer to the TSL Spotting Benchmark. This repository contains the paper's DINOv2-based training and evaluation code, including both Turkish pseudo-gloss strategies and the downstream translation check.
 
 ## Installation
