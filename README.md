@@ -76,6 +76,10 @@ The vocabularies cover different subsets. See the paper for its shared-subset co
 
 Run `python -m unittest discover -s tests -v`. The tests use synthetic inputs and require no datasets, model checkpoints, or generated vocabularies.
 
+## Acknowledgements
+
+This work is supported by the Scientific and Technological Research Council of Türkiye (TÜBİTAK) under the 1001 Scientific and Technological Research Projects Funding Program (Project No. 124E618). We acknowledge the EuroHPC Joint Undertaking for awarding us access to Vega at IZUM, Slovenia, through Development Access allocation 2025D08-090.
+
 ## Citation
 
 If you use this code or build on this work, please cite our paper:
